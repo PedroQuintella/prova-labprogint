@@ -1,1 +1,3 @@
-prova-labprogint
+(Desafio Frontend Developer) Prova P2 da disciplina de Laboratório de Programação de Interface com o Usuário - Pedro Bonatti
+
+O Projeto "Desafio Frontend Developer" consiste no desenvolvimento de uma landing page de anúncio de produtos e um formulário de newsletter. Foi feito o frontend, em HTML e CSS, e o backend, em Python, Flask e JSON. Para esta entrega, foi priorizada a criação da landing page contendo todos os produtos, deixando potenciais dificuldades no desenvolvimento de detalhes do frontend para iterações futuras. Implementei o Header, a seção de formulário de informações pessoais, a seção de Produtos, a seção de compartilhamento e o Footer. Não foi possível implementar a estilização de corte do Header/Footer e o sistema AJAX do projeto.
