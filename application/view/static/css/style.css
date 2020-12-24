@@ -225,6 +225,37 @@ body footer p {
     margin: 0;
 }
 
+#nomeProduto {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #888888;
+}
+
+#descricaoProduto {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #888888;
+}
+
+#precoNormal {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #888888;
+}
+
+#precoPromocional {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #888888;
+}
+
+#parcelamento {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #888888;
+}
+
 
 .title-lines {
     overflow: hidden;
@@ -252,5 +283,3 @@ body footer p {
   .title-lines > span:after{
    left: 100%;
   }
-
-
